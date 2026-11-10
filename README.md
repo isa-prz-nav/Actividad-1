@@ -1,4 +1,4 @@
-# Actividad-1
-## Tarea 1 Introducción, GitHub y JupyterHub
+# Actividad 1
+## Tarea 1: Introducción, GitHub y JupyterHub
 ### Este repositorio contiene la primera actividad correspondiente a curso "Optimización de la gestión de ecosistemas marinos y recursos pesqueros en Latinoamérica mediante ciencia abierta (Edición 2026)". El objetivo de la actividad conocer los puntos básicos del funcionamiento de GitHub y JupyterHub mediante la exploración de una base de datos utilizando Python. Para el ejercicio se utilizaron datos de estimación de biomasa de sargazo flotante en el Caribe Mexicano, provenientes del Sistema de Alerta Temprana de Sargazo (SATsum), integrado en el Sistema de Información y Análisis Marino Costero (SIMAR+) de la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO). 
 ### En este repositorio se encuentra un notebook de Python con la exploración de la base de datos y el archivo csv correspondiente. 
